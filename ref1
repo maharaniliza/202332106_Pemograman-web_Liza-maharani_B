@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodataku</title>
+</head>
+<body>
+
+    <h1>Biodataku</h1>
+
+    <h2>Identitas Diri</h2>
+    <img src="Saya.png" alt="Foto Profil" width="150">
+    <ul>
+        <li>Nama: Liza Maharani</li>
+        <li>NIM: 202332106</li>
+        <li>Prodi: Sistem Informasi</li>
+        <li>Alamat: Jl. H Mali No.37 RT.06/01 Duri Kosambi Cengkareng Jakarta Barat</li>
+        <li>Email: lizavivo078@gmail.com</li>
+    </ul>
+
+    <h2>Hobi</h2>
+    <img src="Memasak.jpg" alt="Memasak" width="150">
+    <img src="Kulineran.jpg" alt="Jalan-jalan" width="150">
+    <ol>
+        <li>Memasak</li>
+        <li>Kulineran</li>
+    </ol>
+
+    <h2>Riwayat Pendidikan</h2>
+    <table border="1" cellspacing="0" cellpadding="5">
+        <tr style="background-color: lightblue;">
+            <th>No</th>
+            <th>Tingkat Pendidikan</th>
+            <th>Nama Sekolah</th>
+            <th>Tahun Lulus</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>SD</td>
+            <td>Min 2 TJT</td>
+            <td>2017</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>SMP</td>
+            <td>SMPN 12 TJT</td>
+            <td>2019</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>SMA</td>
+            <td>SMAN 10 TJT</td>
+            <td>2023</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>S1</td>
+            <td>Institut Teknologi PLN</td>
+            <td>-</td>
+        </tr>
+    </table>
+
+</body>
+</html>
